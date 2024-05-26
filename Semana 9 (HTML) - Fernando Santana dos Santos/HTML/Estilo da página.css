@@ -1,0 +1,30 @@
+body {
+    background-color: #B0E0E6; /* Pó azul */
+    font-family: Arial, sans-serif; /* Define a fonte */
+}
+
+/* Estilizando o cabeçalho */
+header {
+    background-color: #1E90FF; /* Trapaceiro azul */
+    color: white; /* Define a cor do texto */
+    padding: 10px; /* Define o espaçamento interno */
+    text-align: center; /* Centraliza o texto */
+}
+
+/* Estilizando o conteúdo principal */
+main {
+    margin: 15px; /* Define a margem */
+    padding: 20px; /* Define o espaçamento interno */
+    background-color: #ADD8E6; /* Azul claro */
+}
+
+/* Estilizando o rodapé */
+footer {
+    background-color: #4682B4; /* Azul-aço */
+    color: white; /* Define a cor do texto */
+    text-align: center; /* Centraliza o texto */
+    padding: 10px; /* Define o espaçamento interno */
+    position: fixed; /* Fixa o rodapé na parte inferior da página */
+    bottom: 0; /* Define a posição do rodapé */
+    width: 100%; /* Define a largura do rodapé */
+}
